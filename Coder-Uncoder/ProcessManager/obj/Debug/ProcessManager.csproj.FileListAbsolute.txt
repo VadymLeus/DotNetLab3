@@ -1,0 +1,10 @@
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\bin\Debug\ProcessManager.exe.config
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\bin\Debug\ProcessManager.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\bin\Debug\ProcessManager.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\obj\Debug\ProcessManager.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\obj\Debug\ProcessManager.Form1.resources
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\obj\Debug\ProcessManager.Properties.Resources.resources
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\obj\Debug\ProcessManager.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\obj\Debug\ProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\obj\Debug\ProcessManager.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\ProcessManager\obj\Debug\ProcessManager.pdb

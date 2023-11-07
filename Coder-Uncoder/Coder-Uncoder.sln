@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coder-Uncoder", "Coder-Uncoder\Coder-Uncoder.csproj", "{366ECC03-6CB0-4A12-BF23-B6EA0D35512C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessManager", "ProcessManager\ProcessManager.csproj", "{298287F8-1FAE-4038-A168-87698BA6722F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366ECC03-6CB0-4A12-BF23-B6EA0D35512C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366ECC03-6CB0-4A12-BF23-B6EA0D35512C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366ECC03-6CB0-4A12-BF23-B6EA0D35512C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366ECC03-6CB0-4A12-BF23-B6EA0D35512C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298287F8-1FAE-4038-A168-87698BA6722F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298287F8-1FAE-4038-A168-87698BA6722F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298287F8-1FAE-4038-A168-87698BA6722F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298287F8-1FAE-4038-A168-87698BA6722F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03748160-61C0-4A1B-A032-7DA27DDC640D}
+	EndGlobalSection
+EndGlobal

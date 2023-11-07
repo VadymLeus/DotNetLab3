@@ -1,0 +1,10 @@
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\bin\Debug\Coder-Uncoder.exe.config
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\bin\Debug\Coder-Uncoder.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\bin\Debug\Coder-Uncoder.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\obj\Debug\Coder-Uncoder.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\obj\Debug\Coder_Uncoder.Properties.Resources.resources
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\obj\Debug\Coder-Uncoder.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\obj\Debug\Coder-Uncoder.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\obj\Debug\Coder-Uncoder.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\obj\Debug\Coder-Uncoder.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\Visual Studio C\ADT-LAB-03\Coder-Uncoder\Coder-Uncoder\obj\Debug\Coder_Uncoder.TASK.resources
